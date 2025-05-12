@@ -64,7 +64,7 @@ const FAQ = () => {
                 </AccordionSummary>
                 <AccordionDetails>
                     <Typography>
-                        HEMANTH AKULA
+                        Durga Deepika Revati
                     </Typography>
                 </AccordionDetails>
             </Accordion>
